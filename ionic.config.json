@@ -1,0 +1,7 @@
+{
+  "name": "agendaST-0223",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
